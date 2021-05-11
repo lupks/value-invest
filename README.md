@@ -17,7 +17,7 @@ This package can be easily installed by following these steps:
 $ git clone https://github.com/lupks/value-invest
 ```
 ## Usage
-Run the package with the following command:
+Run the script with the following command after navigating to the home directory:
 ```shell
 $ ./valueinvest
 ```
