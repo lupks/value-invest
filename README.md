@@ -5,7 +5,7 @@
 Based on Benjamin Graham's "The Value Investor," value-invest will search for undervalued companies and return a potential list for the user to consider. 
 
 ## Requirements
-- Python 3.6+
+- Python 3.7+
 - [See requirements.txt](https://github.com/lupks/value-invest/blob/master/requirements.txt)
 
 ## Installation
