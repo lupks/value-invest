@@ -1,0 +1,4 @@
+bs4
+selenium
+moviepy==1.0.3
+nltk==3.6.2

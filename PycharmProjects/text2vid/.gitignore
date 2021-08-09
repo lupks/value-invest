@@ -1,0 +1,14 @@
+**/venv/
+
+src/__pycache__/
+
+
+templates/
+venv/
+.idea/
+
+.DS_Store
+
+*.pyc
+*.pyo
+__pycache__/
